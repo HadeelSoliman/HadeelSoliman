@@ -1,4 +1,4 @@
 - 👧🏽 Hi, I’m Hadeel Soliman
-- 🔭 I’m a graduate research assistant at University of Toledo, Computer Science department
+- 🔭 I’m a Data Scientist at Abt Associates
 - 😎 I’m interested in machine learning and probabilistic models
 - 📫 How to reach me: hadeel.soliman@rockerts.utoledo.edu
